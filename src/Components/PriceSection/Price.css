@@ -1,0 +1,21 @@
+.cardEffect:hover{
+    background-color: rgb(65, 65, 226) !important;
+    color: white !important;
+    
+}
+.cardEffect:hover span{
+    color: white !important;
+    opacity: 1  !important;
+}
+.cardEffect:hover img{
+    filter: brightness(0) invert(1);
+}
+.cardEffect:hover a{
+    background: white !important;
+}
+a:hover{
+    color:rgb(65, 65, 226) !important;
+}
+.cardEffect:hover h5{
+    transform: translateY(-1rem);
+}
